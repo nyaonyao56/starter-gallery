@@ -7,4 +7,4 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 ## *Version 1.0.0*
 
 Release Date: Jan 24, 2017
-Created Repository
+  - Created Repository
