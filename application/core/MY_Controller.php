@@ -9,6 +9,7 @@
  * @copyright           2010-2016, James L. Parry
  * ------------------------------------------------------------------------
  */
+
 class Application extends CI_Controller
 {
 
@@ -23,7 +24,7 @@ class Application extends CI_Controller
 
 		//  Set basic view parameters
 		$this->data = array ();
-		$this->data['pagetitle'] = 'CodeIgniter3.1 Starter 2';
+		$this->data['pagetitle'] = 'gallery';
 		$this->data['ci_version'] = (ENVIRONMENT === 'development') ? 'CodeIgniter Version <strong>'.CI_VERSION.'</strong>' : '';
 	}
 

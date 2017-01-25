@@ -20,8 +20,10 @@ class Gallery extends Application
 	public function index()
 	{
                 
-		//$this->data['pagebody'] = 'welcome_message' 
-                $this->load->view('gallery');
+		$this->data['pagebody'] = 'gallery'; 
+                //$this->load->view('gallery');
+                $this->render();
+                    
 	}
 
 }
