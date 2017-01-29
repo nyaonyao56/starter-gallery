@@ -4,10 +4,6 @@ Team membership:  Stanley Chu (Captain) & Hayden Ng (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version 1.0.4*
-  - connected webapp to Database
-  - used database to load data into page
-
 ## *Version 1.0.3*
   - Updated Controller to use base controller's rendering
   - Simplified views
