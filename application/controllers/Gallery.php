@@ -24,9 +24,9 @@ class Gallery extends Application
                 $this->data['thetable'] = $this->table->generate($rows);
                 
                 $this->data['pagebody'] = 'gallery'; 
+
                 //$this->load->view('gallery');
-                $this->render();
-                    
+                $this->render();              
 	}
 
 }

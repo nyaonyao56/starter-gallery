@@ -39,6 +39,7 @@ class Welcome extends Application
             $this->data['pagebody'] = 'welcome';
             //$this->load->view('welcome');
             $this->render();
+
                 
 	}
 
