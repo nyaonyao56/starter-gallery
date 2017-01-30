@@ -2,7 +2,10 @@
 
 Team membership:  Stanley Chu (Captain) & Hayden Ng (Mate)  
 Team conventions: Allman notation, markdown for changelog  
-Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+Changelog format:  [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+## *Version 1.0.4*
+  - Added _cell.php to connect database to each cell in table
+  - Added database functionality
 
 ## *Version 1.0.3*
   - Updated Controller to use base controller's rendering
@@ -17,7 +20,7 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
   - Added trivial controller
   - Added trivial views
 
-## *Version 1.0.0*
-Release Date: Jan 24, 2017
-  - Created Repository
+## *Version 1.0.0* 
+Release Date: Jan 24, 2017 
+  - Created Repository  
   
